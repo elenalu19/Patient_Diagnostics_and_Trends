@@ -3,6 +3,10 @@
 ## Project Overview
 This project involves analyzing a synthetic healthcare dataset to provide insights into patient demographics, diagnosis trends, and clinic utilization. The insights gathered here could assist clinic administrators in resource allocation and patient outreach programs.
 
+## Tableau Dashboard 
+<img width="1024" height="558" alt="image" src="https://github.com/user-attachments/assets/0e00b05b-5bd7-4033-9f8c-7ed37473263f" />
+
+
 ## Key Findings: Patient Profile & Diagnosis Trends
 Based on the analysis of 200 patient visits, the following clinical and demographic trends were identified:
 * Dominant Patient Demographic: The clinic primarily serves the "Middle-Aged" (40–64) population, which accounts for nearly 48% of the unique patient base. 
